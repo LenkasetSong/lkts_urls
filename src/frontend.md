@@ -5,3 +5,5 @@
 [qiankun](https://qiankun.umijs.org/guide/getting-started)
 
 [语雀](https://www.yuque.com)
+
+[结合React创建Electron桌面应用](https://zhuanlan.zhihu.com/p/29164782)
