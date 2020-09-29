@@ -13,3 +13,5 @@
 [npm私有仓库搭建【verdaccio】](https://www.jianshu.com/p/c61f08b7cb88)
 
 [重新封装优化React组件并打包发布到npm私服](https://blog.csdn.net/hq86937375/article/details/104021885)
+
+[npm私有仓库搭建【Nexus】](https://www.jianshu.com/p/6217f5e960fe)
