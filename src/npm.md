@@ -9,3 +9,7 @@
 [npm常用命令和切换源](https://blog.csdn.net/Chad97/article/details/85269794)
 
 [淘宝 NPM 镜像](https://developer.aliyun.com/mirror/NPM?from=tnpm)
+
+[npm私有仓库搭建【verdaccio】](https://www.jianshu.com/p/c61f08b7cb88)
+
+[重新封装优化React组件并打包发布到npm私服](https://blog.csdn.net/hq86937375/article/details/104021885)
