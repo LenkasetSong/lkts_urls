@@ -1,6 +1,6 @@
 # <span style='color:#6040A3'>.net</span>
 
--- [知识全聚集 .Net Core 技术突破 | 如何实现一个模块化方案一](https://www.cnblogs.com/HDONG/p/13689123.html) -- 
+~~[知识全聚集 .Net Core 技术突破 | 如何实现一个模块化方案一](https://www.cnblogs.com/HDONG/p/13689123.html)~~  
 [知识全聚集 .Net Core 技术突破 | 如何实现一个模块化方案一](https://www.cnblogs.com/MrChuJiu/p/13689123.html)
 
 [知识全聚集 .Net Core 技术突破 | 如何实现一个模块化方案二](https://www.cnblogs.com/MrChuJiu/p/13708035.html)
