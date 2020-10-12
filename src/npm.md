@@ -4,6 +4,8 @@
 
 [打包一个react组件并发布到npm上](https://www.jianshu.com/p/3fe6d93ab779)
 
+[如何创建一个前端 React 组件并发布到 NPM](https://www.jianshu.com/p/db6113c94dbc)
+
 [如何理解package.json中的proxy字段？](https://www.jianshu.com/p/bd8f9837bee2)
 
 [npm常用命令和切换源](https://blog.csdn.net/Chad97/article/details/85269794)
