@@ -6,6 +6,8 @@
 
 [VSCode创建自定义代码段](https://www.cnblogs.com/dotnetcrazy/p/9950431.html)
 
+__vscode>F1>snippet(Preferences:Configure User Snippets)>[select language]>[lang].json__
+
 ``` json
 {
   "react jsx": {
