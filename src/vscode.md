@@ -6,7 +6,8 @@
 
 [VSCode创建自定义代码段](https://www.cnblogs.com/dotnetcrazy/p/9950431.html)
 
-```json
+``` json
+{
   "react jsx": {
     "prefix": "rfcjsx",
     "body": [
@@ -27,4 +28,5 @@
     ],
     "description": "react functional component jsx"
   }
-  ```
+}
+```
