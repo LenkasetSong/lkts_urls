@@ -17,3 +17,5 @@
 [hooks](https://react.docschina.org/docs/hooks-reference.html#useref)
 
 [React项目搭建与部署](https://www.cnblogs.com/jackson-yqj/p/10095892.html)
+
+[React 函数式组件性能优化指南](https://www.cnblogs.com/coderhf/p/12804735.html)
