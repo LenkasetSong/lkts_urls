@@ -17,3 +17,7 @@
 [重新封装优化React组件并打包发布到npm私服](https://blog.csdn.net/hq86937375/article/details/104021885)
 
 [npm私有仓库搭建【Nexus】](https://www.jianshu.com/p/6217f5e960fe)
+
+[如何基于antd封装自己的react组件并发布到npm](https://zhuanlan.zhihu.com/p/80754775)
+
+[从零搭建基于 react+antd 的业务组件库发布到 npm](https://www.cnblogs.com/leiting/p/13502864.html)
