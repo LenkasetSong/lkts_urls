@@ -21,3 +21,5 @@
 [如何基于antd封装自己的react组件并发布到npm](https://zhuanlan.zhihu.com/p/80754775)
 
 [从零搭建基于 react+antd 的业务组件库发布到 npm](https://www.cnblogs.com/leiting/p/13502864.html)
+
+[rollup打包基于antd的react组件库](https://www.javascriptcn.com/read-5f058b16403f2923b035bef7.html)    ?1024
